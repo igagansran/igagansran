@@ -92,7 +92,7 @@ I'm a **Computer Science** student at **Texas Tech University**, passionate abou
 
 ## **📫 Let's Connect!**
 🌐 **Portfolio:** ([https://igagansran.com](https://igagansran.github.io/Website-Figma-/))  
-🔗 **LinkedIn:** [linkedin.com/in/gagan-deep-singh-28929b1b2]((https://www.linkedin.com/in/gagandeepsingh772/))  
+🔗 **LinkedIn:** [[linkedin.com/in/gagan-deep-singh-28929b1b2](https://www.linkedin.com/in/gagandeepsingh772/)]((https://www.linkedin.com/in/gagandeepsingh772/))  
 📩 **Email:** gagandes@ttu.edu  
 🚀 **GitHub:** [github.com/igagansran](https://github.com/igagansran)  
 
